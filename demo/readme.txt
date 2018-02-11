@@ -1,0 +1,1 @@
+When you create your Fabric Service Solution as outlined in the full report, you will create a new Controller. The one in this folder (isaacController.cs) represents what the Controller code will look like. I could not upload the complete solution as it was over 200MB... but the only code I changed was the addition of this Controller.
